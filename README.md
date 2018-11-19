@@ -1,6 +1,6 @@
 # JavaScript Outside of the Browser
 Module 4 | 2019.11.19
-First exposure to Node.js & JavaScript outside of the browser!
+First exposure to Node.js & JavaScript outside of the browser! The following is from [Turing's lesson on JavaScript Outside of the Browser](http://backend.turing.io/module4/lessons/javascript_without_a_browser).
 
 ## Node.js:
 an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser.
@@ -13,6 +13,8 @@ an open-source, cross-platform JavaScript run-time environment that executes Jav
 
 ### aside: NPM
 NPM (Node Package Manager) allows for organization of outside packages much like Ruby Gems.
+
+----------------------------------------------------------------------------
 
 # [Turing Lesson](http://backend.turing.io/module4/lessons/javascript_without_a_browser)
 
