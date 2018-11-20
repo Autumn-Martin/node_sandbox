@@ -266,7 +266,7 @@ describe('add functionality', function() {
 })
 ```
 
-To run the tests, type mocha `test/add-test.js`. If all is set up correctly, we should have a passing test!
+To run the tests, type `mocha test/add-test.js`. If all is set up correctly, we should have a passing test!
 
 Let’s work on a few challenges:
 Do the following challenges in the same node-sandbox folder. Try to write tests for each challenge.
